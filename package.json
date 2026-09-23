@@ -1,13 +1,13 @@
 {
-  "name": "netcatty",
-  "description": "Netcatty is a modern SSH manager and terminal app with host grouping, SFTP, keychain, port forwarding, and a rich UI.",
-  "homepage": "https://github.com/binaricat/Netcatty",
+  "name": "moterm",
+  "description": "MoTerm — SSH workspace (from Netcatty). OxideTerm-inspired UI ahead.",
+  "homepage": "https://github.com/MoLi-MoChou/MoTerm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MoLi-MoChou/Netcatty.git"
+    "url": "https://github.com/MoLi-MoChou/MoTerm.git"
   },
   "private": true,
-  "version": "1.1.92",
+  "version": "0.1.0",
   "type": "module",
   "workspaces": [
     "packages/*",
@@ -187,5 +187,6 @@
     "axios": "1.13.5",
     "node-abi": "4.31.0",
     "@electron/asar": "4.2.0"
-  }
+  },
+  "productName": "MoTerm"
 }

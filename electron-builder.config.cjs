@@ -321,7 +321,7 @@ module.exports = {
         {
             provider: 'github',
             owner: 'MoLi-MoChou',
-            repo: 'Netcatty',
+            repo: 'MoTerm',
             releaseType: 'release'
         }
     ]
